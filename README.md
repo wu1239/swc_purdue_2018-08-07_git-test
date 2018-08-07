@@ -1,4 +1,4 @@
 ### This is a test git file.
 #### Everyone is the best.
-:Thumbsup: :sunny:
+:thumbsup: :sunny:
 Work hard, play hard.
